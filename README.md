@@ -20,6 +20,10 @@ set(CMAKE_BUILD_TYPE Debug)
 
 gdb使用可参考 https://www.yanbinghu.com/2019/04/20/41283.html
 
+如下简单介绍：
+
+![img](./image/gdb command.png)
+
 选择可执行文件talker节点，在~/catkin_ws/devel/lib/topic_demo/文件下，对应的源文件：
 
 ![img](./image/source.png)
